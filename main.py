@@ -1,11 +1,11 @@
 import sqlite3
 from fastmcp import FastMCP
 import os
-import logging
+import sys
 import logging
 
 logging.basicConfig(
-    filename=r"D:\AI_Course\expense_tracker_mcp_server\mcp.log",
+    stream=sys.stdout,
     level=logging.INFO,
     format="%(asctime)s %(levelname)s %(message)s",
 )
