@@ -4,17 +4,10 @@ import os
 import sys
 import logging
 
-logging.basicConfig(
-    stream=sys.stdout,
-    level=logging.INFO,
-    format="%(asctime)s %(levelname)s %(message)s",
-)
-
-logger = logging.getLogger(__name__)
 DB_PATH = os.path.join(os.path.dirname(__file__), "expenses.db")
 CATEGORIES_PATH = os.path.join(os.path.dirname(__file__), "categories.json")
 
-logger.info(f"database connected {DB_PATH}")
+
 mcp = FastMCP("ExpenseTracker")
 
 
@@ -57,10 +50,8 @@ def list_expense(start_date, end_date):
             """,
             (start_date, end_date),
         )
-        logger.info("Expenses cur: %s", cur)
         cols = [d[0] for d in cur.description]
         rows = [dict(zip(cols, r)) for r in cur.fetchall()]
-        logger.info("list_expense rows=%d", len(rows))
         return rows
 
 

@@ -37,3 +37,4 @@
 2026-07-02 16:49:02,544 INFO list_expense rows=17
 2026-07-02 17:48:58,809 INFO database connected D:\AI_Course\expense_tracker_mcp_server\expenses.db
 2026-07-02 17:48:58,946 INFO StreamableHTTP session manager started
+2026-07-02 18:30:40,465 INFO StreamableHTTP session manager shutting down
