@@ -1,0 +1,39 @@
+2026-07-02 14:46:23,666 INFO database connected D:\AI_Course\expense_tracker_mcp_server\expenses.db
+2026-07-02 14:46:41,118 INFO database connected D:\AI_Course\expense_tracker_mcp_server\expenses.db
+2026-07-02 14:46:41,120 INFO database connected D:\AI_Course\expense_tracker_mcp_server\expenses.db
+2026-07-02 14:46:41,157 INFO Processing request of type ListToolsRequest
+2026-07-02 14:46:41,162 INFO Processing request of type ListPromptsRequest
+2026-07-02 14:46:41,162 INFO Processing request of type ListToolsRequest
+2026-07-02 14:46:41,164 INFO Processing request of type ListResourcesRequest
+2026-07-02 14:46:41,167 INFO Processing request of type ListPromptsRequest
+2026-07-02 14:46:41,169 INFO Processing request of type ListResourcesRequest
+2026-07-02 14:46:54,009 INFO Processing request of type CallToolRequest
+2026-07-02 14:46:54,016 INFO Expenses cur: <sqlite3.Cursor object at 0x000001AACEC7A4C0>
+2026-07-02 14:46:54,016 INFO list_expense rows=9
+2026-07-02 16:22:43,464 INFO database connected D:\AI_Course\expense_tracker_mcp_server\expenses.db
+2026-07-02 16:23:11,459 INFO database connected D:\AI_Course\expense_tracker_mcp_server\expenses.db
+2026-07-02 16:23:11,459 INFO database connected D:\AI_Course\expense_tracker_mcp_server\expenses.db
+2026-07-02 16:23:11,513 INFO Processing request of type ListToolsRequest
+2026-07-02 16:23:11,520 INFO Processing request of type ListPromptsRequest
+2026-07-02 16:23:11,523 INFO Processing request of type ListToolsRequest
+2026-07-02 16:23:11,525 INFO Processing request of type ListResourcesRequest
+2026-07-02 16:23:11,533 INFO Processing request of type ListPromptsRequest
+2026-07-02 16:23:11,535 INFO Processing request of type ListResourcesRequest
+2026-07-02 16:23:44,607 INFO Processing request of type CallToolRequest
+2026-07-02 16:24:11,652 INFO Processing request of type CallToolRequest
+2026-07-02 16:47:25,871 INFO database connected D:\AI_Course\expense_tracker_mcp_server\expenses.db
+2026-07-02 16:47:44,176 INFO database connected D:\AI_Course\expense_tracker_mcp_server\expenses.db
+2026-07-02 16:47:44,176 INFO database connected D:\AI_Course\expense_tracker_mcp_server\expenses.db
+2026-07-02 16:47:44,213 INFO Processing request of type ListToolsRequest
+2026-07-02 16:47:44,218 INFO Processing request of type ListPromptsRequest
+2026-07-02 16:47:44,220 INFO Processing request of type ListResourcesRequest
+2026-07-02 16:47:44,230 INFO Processing request of type ListToolsRequest
+2026-07-02 16:47:44,234 INFO Processing request of type ListPromptsRequest
+2026-07-02 16:47:44,236 INFO Processing request of type ListResourcesRequest
+2026-07-02 16:47:53,613 INFO Processing request of type ReadResourceRequest
+2026-07-02 16:48:24,019 INFO Processing request of type CallToolRequest
+2026-07-02 16:49:02,539 INFO Processing request of type CallToolRequest
+2026-07-02 16:49:02,543 INFO Expenses cur: <sqlite3.Cursor object at 0x000001BD0AF0C540>
+2026-07-02 16:49:02,544 INFO list_expense rows=17
+2026-07-02 17:48:58,809 INFO database connected D:\AI_Course\expense_tracker_mcp_server\expenses.db
+2026-07-02 17:48:58,946 INFO StreamableHTTP session manager started

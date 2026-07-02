@@ -1,0 +1,73 @@
+{
+  "Food": [
+    "Groceries",
+    "Dining Out",
+    "Coffee",
+    "Snacks",
+    "Delivery",
+    "Takeaway"
+  ],
+  "Transport": [
+    "Fuel",
+    "Public Transport",
+    "Cab / Ride Hailing",
+    "Parking",
+    "Tolls",
+    "Vehicle Service",
+    "Taxis",
+    "Other"
+  ],
+  "Housing": [
+    "Rent",
+    "Mortgage",
+    "Repairs",
+    "Home Insurance",
+    "Property Tax",
+    "Maintenance"
+  ],
+  "Utilities": [
+    "Electricity",
+    "Water",
+    "Gas",
+    "Internet",
+    "Phone",
+    "Waste"
+  ],
+  "Health": [
+    "Medical",
+    "Pharmacy",
+    "Insurance",
+    "Dental",
+    "Optical",
+    "Gym"
+  ],
+  "Education": [
+    "Tuition",
+    "Books",
+    "Courses",
+    "Supplies"
+  ],
+  "Entertainment": [
+    "Movies",
+    "Subscriptions",
+    "Events",
+    "Games",
+    "Streaming"
+  ],
+  "Shopping": [
+    "Clothing",
+    "Electronics",
+    "Household",
+    "Gifts",
+    "Online"
+  ],
+  "Personal": [
+    "Grooming",
+    "Charity",
+    "Memberships",
+    "Travel Accessories"
+  ],
+  "Other": [
+    "Misc"
+  ]
+}
