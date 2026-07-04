@@ -41,6 +41,12 @@ def add_expenses(date, amount, category, subcategory="", note=""):
 
 @mcp.tool()
 def list_expense(start_date, end_date):
+    """List expenses.
+
+    Args:
+        start_date: Start date in YYYY-MM-DD format.
+        end_date: End date in YYYY-MM-DD format.
+    """
     with sqlite3.connect(DB_PATH) as c:
         cur = c.execute(
             """
